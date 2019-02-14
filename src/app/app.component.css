@@ -1,0 +1,12 @@
+.pokeball-back {
+  position: fixed;
+  z-index: -100;
+  top: 50%;
+  left: -50%;
+
+  width: 100%;
+
+  transform: translateY(-50%);
+
+  opacity: .5;
+}

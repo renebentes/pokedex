@@ -1,0 +1,52 @@
+.back-button {
+  font-weight: bold;
+
+  position: fixed;
+  top: 10px;
+  left: 10px;
+
+  display: inline-block;
+
+  width: 20px;
+  height: 20px;
+
+  text-align: center;
+  text-decoration: none;
+
+  color: white;
+  border-radius: 20px;
+  background-color: #333;
+}
+
+.poke-profile {
+  text-align: center;
+}
+
+.poke-types {
+  margin: 0;
+  padding: 0;
+
+  list-style-type: none;
+
+  text-align: center;
+}
+
+.poke-types li {
+  display: inline-block;
+
+  margin: 2px;
+}
+
+table {
+  margin: 50px auto 0 auto;
+
+  border-collapse: collapse;
+
+  background-color: rgba(255, 255, 255, .5);
+}
+
+td {
+  padding: 5px;
+
+  border: 1px solid;
+}

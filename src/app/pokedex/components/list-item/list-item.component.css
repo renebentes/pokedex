@@ -1,0 +1,29 @@
+.poke-list-item {
+  position: relative;
+
+  display: flex;
+
+  padding: 10px;
+
+  list-style: none;
+
+  cursor: pointer;
+
+  color: white;
+  border: 1px solid black;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: #333;
+
+  align-items: center;
+}
+
+.poke-list-item:hover {
+  background-color: #555;
+}
+
+.poke-list-item img {
+  margin-right: 10px;
+
+  vertical-align: middle;
+}

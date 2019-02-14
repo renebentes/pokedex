@@ -1,0 +1,80 @@
+2018-11-23T19:25:06.611Z - info:   [13440] *** FOLDER: d:\dev\pokedex ***
+2018-11-23T19:25:06.612Z - info:   [13440] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.17763; Node 8.9.3)
+2018-11-23T19:25:06.613Z - debug:  [13440] Looking for an External Context at d:\dev\pokedex
+2018-11-23T19:25:06.614Z - debug:  [13440] No External Context at d:\dev\pokedex
+2018-11-23T19:25:06.635Z - debug:  [13440] Looking for TFVC repository at d:\dev\pokedex
+2018-11-23T19:25:06.635Z - debug:  [13440] TFVC Creating Tfvc object with localPath='undefined'
+2018-11-23T19:25:06.636Z - debug:  [13440] Using TFS proxy: 
+2018-11-23T19:25:06.636Z - debug:  [13440] TFVC Retrieved from settings; localPath=''
+2018-11-23T19:25:06.636Z - warn:   [13440] TFVC Couldn't find where the TF command lives on disk.
+2018-11-23T19:25:06.637Z - error:  [13440] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-11-23T19:27:00.518Z - info:   [16892] *** FOLDER: d:\dev\pokedex ***
+2018-11-23T19:27:00.519Z - info:   [16892] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.17763; Node 8.9.3)
+2018-11-23T19:27:00.519Z - debug:  [16892] Looking for an External Context at d:\dev\pokedex
+2018-11-23T19:27:00.519Z - debug:  [16892] No External Context at d:\dev\pokedex
+2018-11-23T19:27:00.522Z - debug:  [16892] Looking for TFVC repository at d:\dev\pokedex
+2018-11-23T19:27:00.523Z - debug:  [16892] TFVC Creating Tfvc object with localPath='undefined'
+2018-11-23T19:27:00.523Z - debug:  [16892] Using TFS proxy: 
+2018-11-23T19:27:00.523Z - debug:  [16892] TFVC Retrieved from settings; localPath=''
+2018-11-23T19:27:00.523Z - warn:   [16892] TFVC Couldn't find where the TF command lives on disk.
+2018-11-23T19:27:00.524Z - error:  [16892] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-11-23T23:33:52.112Z - info:   [12820] *** FOLDER: d:\dev\pokedex ***
+2018-11-23T23:33:52.112Z - info:   [12820] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.17763; Node 8.9.3)
+2018-11-23T23:33:52.118Z - debug:  [12820] Looking for an External Context at d:\dev\pokedex
+2018-11-23T23:33:52.118Z - debug:  [12820] No External Context at d:\dev\pokedex
+2018-11-23T23:33:52.121Z - debug:  [12820] Looking for TFVC repository at d:\dev\pokedex
+2018-11-23T23:33:52.121Z - debug:  [12820] TFVC Creating Tfvc object with localPath='undefined'
+2018-11-23T23:33:52.128Z - debug:  [12820] Using TFS proxy: 
+2018-11-23T23:33:52.128Z - debug:  [12820] TFVC Retrieved from settings; localPath=''
+2018-11-23T23:33:52.128Z - warn:   [12820] TFVC Couldn't find where the TF command lives on disk.
+2018-11-23T23:33:52.128Z - error:  [12820] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-11-28T01:10:40.698Z - info:   [14824] *** FOLDER: d:\dev\pokedex ***
+2018-11-28T01:10:40.698Z - info:   [14824] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.17763; Node 8.9.3)
+2018-11-28T01:10:40.698Z - debug:  [14824] Looking for an External Context at d:\dev\pokedex
+2018-11-28T01:10:40.698Z - debug:  [14824] No External Context at d:\dev\pokedex
+2018-11-28T01:10:40.698Z - debug:  [14824] Looking for TFVC repository at d:\dev\pokedex
+2018-11-28T01:10:40.698Z - debug:  [14824] TFVC Creating Tfvc object with localPath='undefined'
+2018-11-28T01:10:40.703Z - debug:  [14824] Using TFS proxy: 
+2018-11-28T01:10:40.703Z - debug:  [14824] TFVC Retrieved from settings; localPath=''
+2018-11-28T01:10:40.703Z - warn:   [14824] TFVC Couldn't find where the TF command lives on disk.
+2018-11-28T01:10:40.703Z - error:  [14824] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-11-28T22:22:46.475Z - info:   [11292] *** FOLDER: d:\dev\pokedex ***
+2018-11-28T22:22:46.475Z - info:   [11292] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.18282; Node 8.9.3)
+2018-11-28T22:22:46.475Z - debug:  [11292] Looking for an External Context at d:\dev\pokedex
+2018-11-28T22:22:46.475Z - debug:  [11292] No External Context at d:\dev\pokedex
+2018-11-28T22:22:46.475Z - debug:  [11292] Looking for TFVC repository at d:\dev\pokedex
+2018-11-28T22:22:46.475Z - debug:  [11292] TFVC Creating Tfvc object with localPath='undefined'
+2018-11-28T22:22:46.491Z - debug:  [11292] Using TFS proxy: 
+2018-11-28T22:22:46.491Z - debug:  [11292] TFVC Retrieved from settings; localPath=''
+2018-11-28T22:22:46.491Z - warn:   [11292] TFVC Couldn't find where the TF command lives on disk.
+2018-11-28T22:22:46.491Z - error:  [11292] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-12-04T23:48:23.842Z - info:   [04012] *** FOLDER: d:\dev\pokedex ***
+2018-12-04T23:48:23.845Z - info:   [04012] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.18282; Node 8.9.3)
+2018-12-04T23:48:23.845Z - debug:  [04012] Looking for an External Context at d:\dev\pokedex
+2018-12-04T23:48:23.845Z - debug:  [04012] No External Context at d:\dev\pokedex
+2018-12-04T23:48:23.852Z - debug:  [04012] Looking for TFVC repository at d:\dev\pokedex
+2018-12-04T23:48:23.852Z - debug:  [04012] TFVC Creating Tfvc object with localPath='undefined'
+2018-12-04T23:48:23.863Z - debug:  [04012] Using TFS proxy: 
+2018-12-04T23:48:23.863Z - debug:  [04012] TFVC Retrieved from settings; localPath=''
+2018-12-04T23:48:23.863Z - warn:   [04012] TFVC Couldn't find where the TF command lives on disk.
+2018-12-04T23:48:23.863Z - error:  [04012] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-12-13T00:07:42.298Z - info:   [03276] *** FOLDER: d:\dev\pokedex ***
+2018-12-13T00:07:42.314Z - info:   [03276] AzureReposVSCode/1.144.1 (VSCode 1.29.1; Windows_NT 10.0.18282; Node 8.9.3)
+2018-12-13T00:07:42.319Z - debug:  [03276] Looking for an External Context at d:\dev\pokedex
+2018-12-13T00:07:42.319Z - debug:  [03276] No External Context at d:\dev\pokedex
+2018-12-13T00:07:42.329Z - debug:  [03276] Looking for TFVC repository at d:\dev\pokedex
+2018-12-13T00:07:42.330Z - debug:  [03276] TFVC Creating Tfvc object with localPath='undefined'
+2018-12-13T00:07:42.336Z - debug:  [03276] Using TFS proxy: 
+2018-12-13T00:07:42.337Z - debug:  [03276] TFVC Retrieved from settings; localPath=''
+2018-12-13T00:07:42.337Z - warn:   [03276] TFVC Couldn't find where the TF command lives on disk.
+2018-12-13T00:07:42.339Z - error:  [03276] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2018-12-13T00:11:50.913Z - info:   [0396] *** FOLDER: d:\dev\pokedex ***
+2018-12-13T00:11:50.914Z - info:   [0396] AzureReposVSCode/1.144.1 (VSCode 1.30.0; Windows_NT 10.0.18282; Node 8.9.3)
+2018-12-13T00:11:50.915Z - debug:  [0396] Looking for an External Context at d:\dev\pokedex
+2018-12-13T00:11:50.916Z - debug:  [0396] No External Context at d:\dev\pokedex
+2018-12-13T00:11:50.921Z - debug:  [0396] Looking for TFVC repository at d:\dev\pokedex
+2018-12-13T00:11:50.921Z - debug:  [0396] TFVC Creating Tfvc object with localPath='undefined'
+2018-12-13T00:11:50.924Z - debug:  [0396] Using TFS proxy: 
+2018-12-13T00:11:50.924Z - debug:  [0396] TFVC Retrieved from settings; localPath=''
+2018-12-13T00:11:50.924Z - warn:   [0396] TFVC Couldn't find where the TF command lives on disk.
+2018-12-13T00:11:50.930Z - error:  [0396] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.

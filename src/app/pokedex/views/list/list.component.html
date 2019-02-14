@@ -1,0 +1,23 @@
+<input
+  type="text"
+  id="poke-filter"
+  i18n-placeholder
+  placeholder="Search"
+  maxlength="20"
+  [(ngModel)]="filter"
+/>
+
+<img
+  class="selected-pkm"
+  [src]="pokemonSprite"
+  alt="selectPokemon.name"
+  *ngIf="selectedPokemeon"
+/>
+
+<ul class="poke-list">
+  <pk-list-item
+    *ngFor="let pokemon of pokemonList"
+    [pokemon]="pokemon"
+    (mouseenter)="selectPokemon(pokemon)"
+  ></pk-list-item>
+</ul>

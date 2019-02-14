@@ -1,0 +1,35 @@
+<a class="back-button" routerLink="/">&lt;</a>
+<div class="poke-profile">
+  <div>{{ pokemonNumber | myNumber }} - {{ pokemon.name }}</div>
+  <img
+    class="poke-sprite"
+    src="//serebii.net/sunmoon/pokemon/{{ pokemonNumber | myNumber }}.png"
+    [alt]="pokemon.Name"
+  />
+</div>
+
+<ul class="poke-types">
+  <li *ngFor="let type of pokemon.types">
+    <img
+      src="//serebii.net/pokedex-bw/type/{{ type.name }}.gif"
+      [alt]="type.name"
+    />
+  </li>
+</ul>
+
+<table class="stats">
+  <tr>
+    <td i18n>Attack</td>
+    <td i18n>Defense</td>
+    <td i18n>Sp Atk</td>
+    <td i18n>Sp Def</td>
+    <td i18n>Speed</td>
+  </tr>
+  <tr>
+    <td>{{ pokemon.attack }}</td>
+    <td>{{ pokemon.defense }}</td>
+    <td>{{ pokemon.sp_atk }}</td>
+    <td>{{ pokemon.sp_def }}</td>
+    <td>{{ pokemon.speed }}</td>
+  </tr>
+</table>

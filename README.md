@@ -1,6 +1,6 @@
 # Pokedex
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+App construído durante a Formação Angular da [TreinaWeb](http://www.treinaweb.com.br)
 
 ## Development server
 
